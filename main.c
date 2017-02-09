@@ -1,10 +1,4 @@
 
-/* 
-13253505
-Nazým URDOÐAN
-*/
-
-
 
 #include <stdio.h>
 #include <stdlib.h>
